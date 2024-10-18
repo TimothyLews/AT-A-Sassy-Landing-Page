@@ -23,5 +23,5 @@
 .btn-secondary {
   @extend %btn;
   @include set-bg($secondary-color);
-}
-}
+    }
+
